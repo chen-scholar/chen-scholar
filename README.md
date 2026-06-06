@@ -8,7 +8,7 @@
 
 ### 这是我最近在做的开源项目
 
-### [MultiAns](https://github.com/chen-scholar/multians)
+### [MultiAIAns](https://github.com/chen-scholar/multiaians)
 
 - 轻量的多 AI 模型对比协同的问答工具。
 - 同一个问题，可以同时问多个 AI 模型，把回答放在一起看，最大程度避免单个模型的幻觉和片面性，更加全面的看待问题。
