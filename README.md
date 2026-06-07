@@ -13,7 +13,7 @@
 - 轻量的多 AI 模型对比协同的问答工具。
 - 同一个问题，可以同时问多个 AI 模型，把回答放在一起看，最大程度避免单个模型的幻觉和片面性，更加全面的看待问题。
 - 不只是“用 AI”，而是一个让 AI 互相优化的系统 —— 这个项目本身不少代码就是用 Agent 辅助完成的。
-- 还在开发迭代中，目前还只是个 Prototype，能跑起来，但功能还没完整实现。Web Demo 和详细开发计划在 README 中。
+- 还在开发迭代中，目前还是个 Prototype，仍在持续迭代中。Web Demo 和详细开发计划在 README 中。
 
 ### [biliTopicMonitor](https://github.com/chen-scholar/biliTopicMonitor)
 
